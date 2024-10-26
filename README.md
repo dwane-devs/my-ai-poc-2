@@ -4,6 +4,9 @@
 
 Whisper Transcription is a real-time audio transcription application built with Next.js and the Whisper AI model. It allows users to record audio and receive instant transcriptions, making it ideal for note-taking, accessibility, and content creation.
 
+<img width="946" alt="image" src="https://github.com/user-attachments/assets/95280436-cae1-47d5-9dec-08c5d40cb087">
+
+
 ## Features
 
 - Real-time audio recording
